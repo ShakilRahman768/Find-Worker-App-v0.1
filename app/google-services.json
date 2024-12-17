@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "587089274338",
+    "project_id": "find-worker-v2",
+    "storage_bucket": "find-worker-v2.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:587089274338:android:944af5352b0218d40185bb",
+        "android_client_info": {
+          "package_name": "com.example.allproviders"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBXEa6H1M1NnqZquHPJcg5yVbemZRz5DFE"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
